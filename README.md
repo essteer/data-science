@@ -35,8 +35,21 @@ This is an archive of work I've created or adapted in the process of studying te
 
 - [Neural Networks](https://github.com/essteer/data-science/tree/main/src/neural_nets)
 
-  - [Binary image classifier with NumPy](https://github.com/essteer/data-science/blob/main/src/neural_nets/binary_image_classifier_np.py) (from a recitation under the MITx 686x Machine Learning with Python course)
+  - [Binary image classifier with NumPy](https://github.com/essteer/data-science/blob/main/src/neural_nets/bin_img_classifier_numpy.py) (from a recitation under the MITx 686x Machine Learning with Python course)
   - [Hugging Face image caption and text-to-image models](https://github.com/essteer/data-science/blob/main/src/neural_nets/hugging_face_cv.ipynb)
-  - [spaCy transformers for sentiment analysis](https://github.com/essteer/data-science/blob/main/src/neural_nets/nlp_spaCy_transformers.ipynb) (based on [this project](https://github.com/essteer/stock-sentiment-analysis))
   - [PyTorch CNN on CIFAR-10 dataset](https://github.com/essteer/data-science/blob/main/src/neural_nets/pytorch_cifar10.ipynb)
+  - [TensorFlow ANN on fashion MNIST](https://github.com/essteer/data-science/blob/main/src/neural_nets/tensorflow_ann_fashion_mnist.ipynb)
+  - [TensorFlow ANN on Titanic dataset](https://github.com/essteer/data-science/blob/main/src/neural_nets/tensorflow_ann_titanic.ipynb)
+  - [TensorFlow CNN on CIFAR-10 dataset](https://github.com/essteer/data-science/blob/main/src/neural_nets/tensorflow_cifar10.ipynb)
+  - [TensorFlow CNN on flowers dataset](https://github.com/essteer/data-science/blob/main/src/neural_nets/tensorflow_cnn_flowers.ipynb)
+  - [TensorFlow CNN on malaria dataset](https://github.com/essteer/data-science/blob/main/src/neural_nets/tensorflow_cnn_malaria.ipynb)
+  - [TensorFlow CNN on MNIST dataset](https://github.com/essteer/data-science/blob/main/src/neural_nets/tensorflow_cnn_mnist.ipynb)
   - [TensorFlow image classification](https://github.com/essteer/data-science/blob/main/src/neural_nets/tensorflow_cv.ipynb)
+
+- [Natural Language Processing](https://github.com/essteer/data-science/tree/main/src/nlp)
+
+  - [chromadb retriever and RAG](https://github.com/essteer/data-science/blob/main/src/nlp/chromadb_RAG.ipynb)
+  - [chromadb retriever](https://github.com/essteer/data-science/blob/main/src/nlp/chromadb_retriever.ipynb)
+  - [NLTK text processing](https://github.com/essteer/data-science/blob/main/src/nlp/nlp_nltk_text_processing.ipynb)
+  - [NLTK web scrape and text processing](https://github.com/essteer/data-science/blob/main/src/nlp/nlp_nltk_web_scrape.ipynb)
+  - [spaCy transformers for sentiment analysis](https://github.com/essteer/data-science/blob/main/src/neural_nets/nlp_spaCy_transformers.ipynb) (based on [this project](https://github.com/essteer/stock-sentiment-analysis))

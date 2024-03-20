@@ -1,8 +1,8 @@
 # Machine Learning
 
-Notebooks and other files related to data, machine learning and neural networks.
+Notebooks and code related to data, machine learning and neural networks.
 
-This is an archive of work I've created or adapted in the process of studying techniques and tools for data analysis,machine learning and neural network models applied to tasks such as classification, prediction, and natural language processing.
+This is an archive of work I've created or adapted in the process of studying techniques and tools for data analysis, machine learning and neural network models applied to tasks such as classification, prediction, and natural language processing.
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3777aa)
 ![](https://img.shields.io/badge/Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=F9AB00)

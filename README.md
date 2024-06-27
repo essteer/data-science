@@ -25,7 +25,7 @@ This is an archive of work I've created or adapted in the process of studying te
 
 - [Machine Learning](https://github.com/essteer/machine-learning/tree/main/src/machine_learning)
 
-  - [ARIMA model forecasting](https://github.com/essteer/machine-learning/blob/main/src/machine_learning/arima.ipynb) (based on [this project](https://github.com/essteer/tick-predict))
+  - [ARIMA model forecasting](https://github.com/essteer/machine-learning/blob/main/src/machine_learning/arima/arima.ipynb)
   - [Gradient descent with NumPy](https://github.com/essteer/machine-learning/blob/main/src/machine_learning/gradient_descent_np.ipynb)
   - [K-Means clustering demo](https://github.com/essteer/machine-learning/blob/main/src/machine_learning/kmeans_clustering_demo.ipynb)
   - [K-Means on zoo dataset](https://github.com/essteer/machine-learning/blob/main/src/machine_learning/kmeans_zoo_animals.ipynb)
